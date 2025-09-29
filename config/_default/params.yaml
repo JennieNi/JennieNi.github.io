@@ -29,18 +29,18 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: true
+    enable: false
     block: floating-theme-toggler
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} Zhenni. This work is licensed under {license}'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Zhenni. This work is licensed under {license}'
+#     license:
+#       enable: false
+#       allow_derivatives: false
+#       share_alike: false
+#       allow_commercial: false
 
 # Localization
 locale:
