@@ -46,7 +46,7 @@ education:
   - area: 博士/Ph.D. 数据科学/Data Science
     institution: 武汉大学/Wuhan University
     date_start: 2021-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -55,7 +55,7 @@ education:
   - area: 硕士/M.A. 信息资源管理/Information Resource Management
     institution: 武汉大学/Wuhan University
     date_start: 2019-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-30
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -66,7 +66,7 @@ education:
   - area: 本科/B.S. 信息管理与信息系统/Information Management and Information System
     institution: 青岛大学/Qingdao University
     date_start: 2015-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     # summary: |
     #   GPA: 3.4/4.0
 
