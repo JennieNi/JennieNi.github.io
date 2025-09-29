@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2025-10-04
+date: 2025-09-04
 type: landing
 
 design:
