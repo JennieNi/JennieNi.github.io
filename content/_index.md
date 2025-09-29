@@ -44,6 +44,9 @@ sections:
     content:
       title: Publications
       username: admin
+      filters:
+        folders:
+          - publication
     design:
       # Choose your content listing view - here we use the `showcase` view
       view: citation
