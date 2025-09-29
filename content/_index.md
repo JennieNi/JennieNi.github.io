@@ -44,10 +44,11 @@ sections:
     content:
       title: Publications
       username: admin
+      count: 25
       filters:
         folders:
           - publication
-      count:25
+      
     design:
       # Choose your content listing view - here we use the `showcase` view
       view: citation
