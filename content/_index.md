@@ -40,10 +40,16 @@ sections:
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
-  - block: awards
+  - block: publications
     content:
       title: Publications
       username: admin
+    design:
+      # Choose your content listing view - here we use the `showcase` view
+      view: citation
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['40px', '0', '20px', '0']
   # - block: languages
   #   content:
   #     title: Languages
