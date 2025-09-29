@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-10-04
 type: landing
 
 design:
@@ -47,12 +47,13 @@ sections:
       filters:
         folders:
           - publication
+      count:25
     design:
       # Choose your content listing view - here we use the `showcase` view
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['10px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
   # - block: languages
   #   content:
   #     title: Languages
