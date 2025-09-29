@@ -7,7 +7,7 @@ authors:
 - Zhizhen Yao
 - Shuai Zhang
 date: '2023-05-01'
-publishDate: '2025-09-29T19:28:03.383774Z'
+publishDate: '2025-09-29T20:17:29.376647Z'
 publication_types:
 - article-journal
 publication: '*Health Communication*'

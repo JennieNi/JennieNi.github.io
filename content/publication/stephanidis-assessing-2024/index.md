@@ -8,7 +8,7 @@ authors:
 - Marie-Christine Jaulent
 - Cédric Bousquet
 date: '2024-01-01'
-publishDate: '2025-09-29T19:28:03.374667Z'
+publishDate: '2025-09-29T20:17:29.358860Z'
 publication_types:
 - chapter
 publication: '*HCI International 2023 – Late Breaking Posters*'

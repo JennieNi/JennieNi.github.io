@@ -7,7 +7,7 @@ authors:
 - Zhenni Ni
 - Feicheng Ma
 date: '2022-01-01'
-publishDate: '2025-09-29T19:28:03.299283Z'
+publishDate: '2025-09-29T20:17:29.282838Z'
 publication_types:
 - article-journal
 publication: '*Aslib Journal of Information Management*'

@@ -44,17 +44,16 @@ sections:
     content:
       title: Publications
       username: admin
-      count: 25
+      count: 20
       filters:
         folders:
           - publication
-      
     design:
       # Choose your content listing view - here we use the `showcase` view
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: ['30px', '0', '20px', '0']
   # - block: languages
   #   content:
   #     title: Languages

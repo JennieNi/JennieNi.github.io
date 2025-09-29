@@ -8,7 +8,7 @@ authors:
 - Zhenghao Liu
 - Feicheng Ma
 date: '2023-01-01'
-publishDate: '2025-09-29T19:28:03.308458Z'
+publishDate: '2025-09-29T20:17:29.289423Z'
 publication_types:
 - article-journal
 publication: '*Telematics and Informatics*'

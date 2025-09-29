@@ -8,20 +8,20 @@ authors:
 - Zhenni Ni
 - Yunmei Liu
 date: '2021-01-01'
-publishDate: '2025-09-29T19:28:03.292120Z'
+publishDate: '2025-09-29T20:17:29.275899Z'
 publication_types:
 - article-journal
 publication: '*JMIR public health and surveillance*'
 tags:
-- COVID-19
-- social media
 - China
-- misinformation
-- infodemic
-- infodemiology
+- COVID-19
 - dissemination
 - epidemic
 - exploratory
+- infodemic
+- infodemiology
+- misinformation
+- social media
 - spread characteristics
 links:
 - name: URL

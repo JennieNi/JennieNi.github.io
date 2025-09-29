@@ -8,7 +8,7 @@ authors:
 - Bin Zhang
 - Jian Du
 date: '2022-01-01'
-publishDate: '2025-09-29T19:28:03.274991Z'
+publishDate: '2025-09-29T20:17:29.257924Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Environmental Research and Public Health*'
@@ -37,11 +37,11 @@ abstract: Disease-specific online health communities provide a convenient and co
   society to provide actual medical assistance and deploy health interventions based
   on disease types.
 tags:
-- social network analysis
 - chronic disease
 - emotional contagion
 - online disease community
 - sentiment polarity
+- social network analysis
 - topic mining
 links:
 - name: URL

@@ -9,7 +9,7 @@ authors:
 - Zhenni Ni
 - Zhenghao Liu
 date: '2024-05-01'
-publishDate: '2025-09-29T19:28:03.283512Z'
+publishDate: '2025-09-29T20:17:29.267503Z'
 publication_types:
 - article-journal
 publication: '*Computers in Human Behavior*'
@@ -41,11 +41,11 @@ abstract: Designing persuasive debunking messages poses significant challenges i
   persuasiveness, thereby facilitating the development of more persuasive strategies
   to counter rumors in public health emergencies.
 tags:
-- Social media
 - Congruence
 - Messages persuasiveness
 - Public health crises
 - Rumor debunking
+- Social media
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0747563224000037
