@@ -44,7 +44,7 @@ sections:
     content:
       title: Publications
       username: admin
-      count: 25
+      count: 10
       filters:
         folders:
           - publication
