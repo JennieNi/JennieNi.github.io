@@ -20,7 +20,7 @@ last_name: Ni
 superuser: true
 
 # Role/position/tagline
-role: 助理教授
+role: jennie_n@xjtu.edu.cn
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -29,10 +29,10 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:jennie_n@xjtu.edu.cn'
-    label: E-mail Me
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:jennie_n@xjtu.edu.cn'
+#     label: E-mail Me
   # - icon: brands/x
   #   url: https://x.com/BuildLore
   # - icon: brands/github
