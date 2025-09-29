@@ -82,8 +82,7 @@ work:
     date_start: 2025-07-30
     date_end: ''
     summary: |
-      新闻与新媒体学院
-      “空间媒介与智能计算”陕西省高等学校重点实验室
+      新闻与新媒体学院空间媒介与智能计算实验室是陕西省高等学校重点实验室，该实验室致力于研究和构建以文化体验-信息传播-知识服务为核心，以智能计算等人工智能技术应用为方法，以空间为媒介载体的全新融合传播理论及技术实现体系。个人研究目前聚焦于沉浸式产业评价、空间媒介与人机交互等领域。
   - position: 访学/Visiting PhD
     company_name: 医学信息学与健康知识工程实验室 索邦大学/LIMICS Sorbonne Université
     company_url: 'https://www.limics.fr/language/en/home/?lang=en'
@@ -167,4 +166,4 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-倪珍妮博士系上海交通大学新闻与新媒体学院助理教授，主要研究领域为健康传播与智能计算、多模态信息传播与治理等。目前已在医学信息学、传播学、信息科学、心理学等领域发表20余篇SSCI/SCI/CSSCI期刊论文。
+倪珍妮博士系西安交通大学新闻与新媒体学院助理教授，主要研究领域为健康传播与智能计算、多模态信息传播与治理等。目前已在医学信息学、传播学、信息科学、心理学等领域发表论文20余篇，相关成果发表于Health Communication、Telematics and Informatics、Computers in Human Behavior、JMIR mHealth and uHealth 、Online Information Review等期刊。
