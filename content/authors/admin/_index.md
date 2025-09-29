@@ -24,7 +24,7 @@ role: jennie_n@xjtu.edu.cn
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 西安交通大学新闻与新媒体学院
+  - name: 西安交通大学 新闻与新媒体学院
     url: https://xmtxy.xjtu.edu.cn/
 
 # Social network links
