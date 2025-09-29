@@ -40,7 +40,7 @@ sections:
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
-  - block: publications
+  - block: collection
     content:
       title: Publications
       username: admin
