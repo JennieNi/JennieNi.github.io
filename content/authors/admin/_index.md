@@ -138,9 +138,9 @@ work:
   # Add/remove as many awards below as you like.
   # Only `title`, `awarder`, and `date` are required.
   # Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-publications:
-  - title: Neural Networks and Deep Learning
-    date: '2023-11-25'
+# publications:
+#   - title: Neural Networks and Deep Learning
+#     date: '2023-11-25'
 #   - title: Blockchain Fundamentals
 #     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
