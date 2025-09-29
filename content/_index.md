@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '2rem'
+  spacing: '3rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -25,6 +25,9 @@ sections:
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: experience
     content:
       username: admin

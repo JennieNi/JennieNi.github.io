@@ -29,7 +29,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     block: floating-theme-toggler
 
 # Site footer
