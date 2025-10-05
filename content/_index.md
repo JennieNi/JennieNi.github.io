@@ -27,7 +27,7 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '10px', '20px', '10px']
+        padding: ['20px', '0px', '20px', '0px']
   - block: experience
     content:
       username: admin
@@ -49,7 +49,7 @@ sections:
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '10px', '20px', '10px']
+        padding: ['20px', '0px', '20px', '0px']
   # - block: languages
   #   content:
   #     title: Languages
