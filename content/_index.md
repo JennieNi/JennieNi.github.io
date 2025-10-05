@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '3rem'
+  spacing: '2rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -36,10 +36,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  # - block: skills
-  #   content:
-  #     title: Skills & Hobbies
-  #     username: admin
   - block: collection
     content:
       title: Publications
