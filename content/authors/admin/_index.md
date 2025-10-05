@@ -161,5 +161,5 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-倪珍妮博士系西安交通大学新闻与新媒体学院助理教授，主要研究领域为健康传播与智能计算、多模态信息传播与治理等。已在医学信息学、传播学、信息科学、心理学等领域发表论文20余篇。其中，以第一/共同第一作者发表SSCI/SCI/CSSCI期刊论文7篇，相关成果发表于Health Communication、Telematics and Informatics、Computers in Human Behavior、JMIR mHealth and uHealth 、Online Information Review等期刊。
+倪珍妮博士系西安交通大学新闻与新媒体学院助理教授，主要研究领域为健康传播与智能计算、多模态信息传播与治理等。已在医学信息学、传播学、信息科学、心理学等领域发表论文20余篇。其中，以第一/共同第一作者发表SSCI/SCI/CSSCI期刊论文7篇，相关成果发表于Health Communication、Telematics and Informatics、Computers in Human Behavior、JMIR mHealth and uHealth 、Online Information Review等期刊。<br>
 目前工作聚焦于沉浸式技术（VR/AR/XR）在健康传播中的创新应用，欢迎感兴趣的老师与同学交流合作、共同学习！
