@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '2rem'
+  spacing: '4rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -27,7 +27,7 @@ sections:
         shape: rounded # Options: circle (default), square, rounded
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '10px', '20px', '10px']
   - block: experience
     content:
       username: admin
@@ -49,7 +49,7 @@ sections:
       view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '0', '20px', '0']
+        padding: ['30px', '10px', '20px', '10px']
   # - block: languages
   #   content:
   #     title: Languages
